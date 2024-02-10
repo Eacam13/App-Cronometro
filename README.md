@@ -26,6 +26,7 @@ git clone https://github.com/Eacam13/App-Cronometro.git
 cd App-Cronometro
 
 # Instale as dependências do projeto usando npm:
+
 npm install
 
 ## Dependências
@@ -42,6 +43,7 @@ Certifique-se de que estas dependências estejam instaladas antes de executar o 
 Para executar o aplicativo em um simulador iOS ou Android ou em um dispositivo físico, você pode usar o seguinte comando:
 
 npm start
+
 Isso iniciará o servidor do Expo Metro Bundler. Você pode então escanear o código QR com o aplicativo Expo Go em seu dispositivo móvel para visualizar o aplicativo em tempo real.
 
 # Contribuindo
